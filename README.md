@@ -1,8 +1,8 @@
 <div align= "center" dir="auto">
-<h1> Hi, I'm Natalia Iglesias Gonzalez. </h1>
+<h1> Hola, soy Natalia Iglesias Gonzalez. </h1>
 <h2>Full-Stack Developer</h2> 
 </div>
- <p>  About me : Soy desarrolladora FullStack , apasionada del mundo del desarrollo y programación .
+ <p>  Sobre mi: Soy desarrolladora FullStack , apasionada del mundo del desarrollo y programación .
 Cuento con gran disposición al trabajar en equipo,así como de manera individual.
 Me adapto con facilidad a los cambios y me considero una personas muy
 creativa,autodidacta, sin miedos a los desafíos ,con muchas ganas de crecer profesionalmente.<p/>
