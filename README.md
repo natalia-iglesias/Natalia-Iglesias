@@ -2,10 +2,14 @@
 <h1> Hola, soy Natalia Iglesias Gonzalez. </h1>
 <h2>Full-Stack Developer</h2> 
 </div>
- <p>  Sobre mi: Soy desarrolladora FullStack , apasionada del mundo del desarrollo y programación .
-Cuento con gran disposición al trabajar en equipo,así como de manera individual.
-Me adapto con facilidad a los cambios y me considero una personas muy
-creativa,autodidacta, sin miedos a los desafíos ,con muchas ganas de crecer profesionalmente.<p/>
+ <p> Sobre Mi : Soy Full Stack Developer con formación en Diseño y desarrollo Web cuanto con experiencia 
+trabajando con Javascript, css , framework, Node.js, React, Redux , SQL, entre otras. Tengo 
+conocimientos en control de versiones, Git, desarrollo ágil Scrum, y softwere libre Linux. Actualmente, 
+estudiando ingles y planeo certificarme en MongoDb , Laravel , PHP Y Python entre otras tecnologías del 
+sector.
+Cuento con gran disposición al trabajar en equipo para buscar soluciones innovadoras y escalables.
+me considero una personas muy creativa, autodidacta, sin miedos a los desafíos ,con muchas ganas de crecer 
+profesionalmente..<p/>
 <div align= "center" dir="auto">
 <h5>Languages : JavaScript | SQL . </h5>
 <h5>Work methodology: SCRUM.</h5>
