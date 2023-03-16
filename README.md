@@ -9,7 +9,12 @@ estudiando ingles y planeo certificarme en MongoDb , Laravel , PHP Y Python entr
 sector.
 Cuento con gran disposición al trabajar en equipo para buscar soluciones innovadoras y escalables.
 me considero una personas muy creativa, autodidacta, sin miedos a los desafíos ,con muchas ganas de crecer 
-profesionalmente..<p/>
+profesionalmente.
+Podes contactarme en cualquiera de los siguientes medios :
+e-mail: iglesiasn63@gmail.com 
+o a través de las plataforma de LinkedIn : https://www.linkedin.com/in/natalia-iglesias-94a3bb231/
+Gracias por llegar hasta acá Atte. Natalia Iglesias
+<p/>
 <div align= "center" dir="auto">
 <h5>Languages : JavaScript | SQL . </h5>
 <h5>Work methodology: SCRUM.</h5>
